@@ -1,0 +1,62 @@
+@font-face {
+	font-family:GameFont;
+	src:url(../fontes/ANODETONOONE.TTF);
+}
+
+@font-face{
+    font-family: TitleFont;
+    src: url(../fontes/AmericanSigns.otf);
+}
+
+@font-face{
+    font-family: BottomFont;
+    src: url(../fontes/bottomFont.otf);
+}
+
+body{
+    text-align: center;
+    background-color: #2E2E2E;
+}
+
+h1{
+    margin: 2px;
+    font-family:TitleFont;
+    font-size: 50px;
+    color: white;
+}
+
+.quadrado{
+    font-family: GameFont;
+    text-align: center;
+    width: 50px;
+    background: #F6E3CE;
+    display: inline-block;
+    padding: 40px;
+    font-size: 60px;
+    margin: 3px;
+    cursor: pointer;
+    color: #F6E3CE;
+}
+
+.jogador, .vencedor{
+    font-family: BottomFont;
+    font-size: 26px;
+    color: white;
+    font-weight: bold;
+}
+
+.btn{
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    font-weight: bolder;
+    cursor: pointer;
+    width: 100px;
+    height: 30px;
+}
+
+.btn:hover{
+    background-color: white;
+    color: black;
+    font-weight: bolder;
+}
