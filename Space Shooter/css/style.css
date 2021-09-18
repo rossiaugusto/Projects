@@ -1,0 +1,42 @@
+@font-face{
+    font-family: TitleFont;
+    src: url(../fontes/AmericanSigns.otf);
+}
+
+@font-face {
+	font-family:GameFont;
+	src:url(../fontes/ANODETONOONE.TTF);
+}
+
+body{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+    font-family: TitleFont;
+    background-color: #9A2EFE;
+}
+
+#mainArea{
+    background-color: black;
+    background-image: url(../img/space.png);
+    height: 610px;
+    width: 600px;
+}
+
+.hero{
+    position: relative;
+    height: 55px;
+    width: 70px;
+    left: 20px;
+    top: 250px;
+}
+
+.laser{
+    position: relative;
+    width: 40px;
+    height: 30px;
+}
