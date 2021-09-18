@@ -27,16 +27,53 @@ body{
     width: 600px;
 }
 
-.hero{
+.game-instructions{
+    font-family: TitleFont;
+    font-weight: bolder;
     position: relative;
-    height: 55px;
-    width: 70px;
-    left: 20px;
-    top: 250px;
+    color: white;
+    left: 6rem;
+    top: 0px;
 }
 
-.laser{
+.start-button{
+    font-family: GameFont;
+    font-size: 16px;
+    position: relative;
+    color: white;
+    top: 9rem;
+    left: 15rem;
+    cursor: pointer;
+}
+
+.hero {
+    position: relative;
+    height: 60px;
+    width: 70px;
+    left: 20px;
+    top: 250px
+}
+
+.laser {
     position: relative;
     width: 40px;
     height: 30px;
+}
+
+.alien {
+    height: 60px;
+    width: 70px;
+    position: relative;
+}
+
+.alien-transition {
+    opacity: 1;
+    transition: opacity 1.5s ease-in-out;
+}
+
+.dead-alien {
+    height: 60px;
+    width: 70px;
+    position: relative;
+    opacity: 0;
 }
