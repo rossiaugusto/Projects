@@ -1,19 +1,27 @@
-## Estes são meus 9 projetos relacionados à Plataforma DIO
+# Estes são meus 9 projetos relacionados à Plataforma DIO
 
-### O 1° é o jogo do dinossauro quando se está sem internet;
+## Dois são sobre o Bootcamp HTML e os outros sete são do Bootcamp JavaScript
 
-### O 2° é um jogo Genius;
+### Bootcamp HTML Web Developer
 
-### O 3° é um jogo da Memória;
+#### O 1° é a minha versão, modificada, da página inicial do Netflix, a qual eu dei o nome de Basketflix e
 
-### O 4°  é a minha versão, modificada, da página inicial do Netflix, a qual eu dei o nome de Basketflix;
+#### O 2° é a recriação da página de login do Instagram.
 
-### O 5° é a recriação da página de login do Instagram;
 
-### O 6° é um jogo de resgate;
 
-### O 7° é o jogo da cobrinha com Java Script;
+### Bootcamp JavaScript Game Developer
 
-### O 8° é um jogo Space Shooter e
+#### O 1º é o jogo do dinossauro quando se está sem internet;
 
-### O 9° é um jogo da velha.
+#### O 2° é um jogo Genius;
+
+#### O 3° é um jogo da Memória;
+
+#### O 4° é um jogo de resgate;
+
+#### O 5° é o jogo da cobrinha com Java Script;
+
+#### O 6° é um jogo Space Shooter e
+
+#### O 7° é um jogo da velha.
