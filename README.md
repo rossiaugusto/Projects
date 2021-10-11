@@ -1,14 +1,16 @@
-# Estes são meus 9 projetos relacionados à Plataforma DIO
+# Estes são meus 10 projetos relacionados à Plataforma DIO
 
-## Dois são sobre o Bootcamp HTML e os outros sete são do Bootcamp JavaScript
+## Um é sobre o BootCamp .NET Fundamentals, dois são sobre o Bootcamp HTML  Web Developer e os outros sete são do Bootcamp JavaScript Game Developer
+
+### Bootcamp .NET Fundamentals
+
+#### Aplicação Console para Cadastrar Alunos e suas Notas, Listar Alunos e suas Notas e Calcular a Média Geral dos Alunos.
 
 ### Bootcamp HTML Web Developer
 
 #### O 1° é a minha versão, modificada, da página inicial do Netflix, a qual eu dei o nome de Basketflix e
 
 #### O 2° é a recriação da página de login do Instagram.
-
-
 
 ### Bootcamp JavaScript Game Developer
 
