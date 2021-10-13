@@ -1,4 +1,4 @@
-# Estes são meus 10 projetos relacionados à Plataforma DIO
+# Estes são meus 11 projetos relacionados à Plataforma DIO
 
 ## Um é sobre o BootCamp .NET Fundamentals, dois são sobre o Bootcamp HTML  Web Developer e os outros sete são do Bootcamp JavaScript Game Developer
 
