@@ -4,7 +4,9 @@
 
 ### Bootcamp .NET Fundamentals
 
-#### Aplicação Console para Cadastrar Alunos e suas Notas, Listar Alunos e suas Notas e Calcular a Média Geral dos Alunos.
+#### O 1° é uma aplicação console para Cadastrar Alunos e suas Notas, Listar Alunos e suas Notas e Calcular a Média Geral dos Alunos e
+
+#### O 2° é uma pequena simulação de um Banco, tendo como inserir nova conta, listar contas, depositar, transferir e sacar.
 
 ### Bootcamp HTML Web Developer
 

@@ -1,0 +1,16 @@
+C:\workspace\DIO\Projects\Bootcamp .NET Fundamentals\Bank\bin\Debug\net5.0\Bank.exe
+C:\workspace\DIO\Projects\Bootcamp .NET Fundamentals\Bank\bin\Debug\net5.0\Bank.deps.json
+C:\workspace\DIO\Projects\Bootcamp .NET Fundamentals\Bank\bin\Debug\net5.0\Bank.runtimeconfig.json
+C:\workspace\DIO\Projects\Bootcamp .NET Fundamentals\Bank\bin\Debug\net5.0\Bank.runtimeconfig.dev.json
+C:\workspace\DIO\Projects\Bootcamp .NET Fundamentals\Bank\bin\Debug\net5.0\Bank.dll
+C:\workspace\DIO\Projects\Bootcamp .NET Fundamentals\Bank\bin\Debug\net5.0\ref\Bank.dll
+C:\workspace\DIO\Projects\Bootcamp .NET Fundamentals\Bank\bin\Debug\net5.0\Bank.pdb
+C:\workspace\DIO\Projects\Bootcamp .NET Fundamentals\Bank\obj\Debug\net5.0\Bank.csproj.AssemblyReference.cache
+C:\workspace\DIO\Projects\Bootcamp .NET Fundamentals\Bank\obj\Debug\net5.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\DIO\Projects\Bootcamp .NET Fundamentals\Bank\obj\Debug\net5.0\Bank.AssemblyInfoInputs.cache
+C:\workspace\DIO\Projects\Bootcamp .NET Fundamentals\Bank\obj\Debug\net5.0\Bank.AssemblyInfo.cs
+C:\workspace\DIO\Projects\Bootcamp .NET Fundamentals\Bank\obj\Debug\net5.0\Bank.csproj.CoreCompileInputs.cache
+C:\workspace\DIO\Projects\Bootcamp .NET Fundamentals\Bank\obj\Debug\net5.0\Bank.dll
+C:\workspace\DIO\Projects\Bootcamp .NET Fundamentals\Bank\obj\Debug\net5.0\ref\Bank.dll
+C:\workspace\DIO\Projects\Bootcamp .NET Fundamentals\Bank\obj\Debug\net5.0\Bank.pdb
+C:\workspace\DIO\Projects\Bootcamp .NET Fundamentals\Bank\obj\Debug\net5.0\Bank.genruntimeconfig.cache
