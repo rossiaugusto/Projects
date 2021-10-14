@@ -1,12 +1,14 @@
-# Estes são meus 11 projetos relacionados à Plataforma DIO
+# Estes são meus 12 projetos relacionados à Plataforma DIO
 
-## Um é sobre o BootCamp .NET Fundamentals, dois são sobre o Bootcamp HTML  Web Developer e os outros sete são do Bootcamp JavaScript Game Developer
+## Três são sobre o BootCamp .NET Fundamentals, dois são sobre o Bootcamp HTML  Web Developer e os outros sete são do Bootcamp JavaScript Game Developer
 
 ### Bootcamp .NET Fundamentals
 
-#### O 1° é uma aplicação console para Cadastrar Alunos e suas Notas, Listar Alunos e suas Notas e Calcular a Média Geral dos Alunos e
+#### O 1° é uma aplicação console para Cadastrar Alunos e suas Notas, Listar Alunos e suas Notas e Calcular a Média Geral dos Alunos;
 
-#### O 2° é uma pequena simulação de um Banco, tendo como inserir nova conta, listar contas, depositar, transferir e sacar.
+#### O 2° é Criando uma aplicação de transferências bancárias com .NET e
+
+#### O 3° é Criando um APP simples de cadastro de séries em .NET.
 
 ### Bootcamp HTML Web Developer
 
